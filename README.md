@@ -22,7 +22,7 @@ includes the truth tables and the key equations, not just prose.
 
 Read a topic for the concept and its truth table, then build and simulate the matching
 design in the companion RTL library,
-**[vlsi-verilog-examples](https://github.com/saikrishnakk36/vlsi-verilog-examples)**.
+**[vlsi-verilog-examples](https://github.com/chipxpertofficial/vlsi-verilog-examples)**.
 Step-by-step tutorials for each concept are at the [ChipXpert learning site](https://chipxpert.in/).
 
 ## License
