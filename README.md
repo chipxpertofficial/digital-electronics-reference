@@ -1,5 +1,8 @@
 # Digital Electronics Reference
 
+> ▶ **Try it live** — simulate the gates, flip-flops and FSMs in [ChipXpert Lab](https://lab.chipxpert.in/), a free in-browser Verilog/SystemVerilog playground — no install, no signup.
+
+
 A concise, exam- and interview-ready reference for **digital electronics and digital
 logic design** — number systems, Boolean algebra, combinational and sequential circuits,
 flip-flops, memory, and the timing rules behind real synchronous hardware. Every topic
